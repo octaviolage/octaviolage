@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
-- 😄 My name is Octávio Lage, and I'm from Brazil :earth_americas:. Since was young, I always thought it was amazing how pulses of energy were transformed into what we see every day on the screens of our computers and video games. So I decided to work turning these pulses into something to help people.
+- 😄 My name is Octávio Lage, and I'm from Brazil :earth_americas:. Since was young, I always thought it was amazing how pulses of energy were transformed into what we see every day on the screens of our computers and video games. So I decided to work on turning these pulses into things that can help people in different ways.
 
-- :books: I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais.
-
-- :computer: Actually I work as a Software Development Inner at Mediar Solutions.
+- 📚 I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais.
+- 💻 Actually I work as a Software Development Inner at Mediar Solutions.
+- 🎲 Quick facts about me: The thing I like to do the most is to get to know new things and places. My favorite food is pizza. My favorite sport is running. In my spare time I like to play games.
 
 - ✉️ Would you like to find me?
            
