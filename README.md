@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello World! 👋
 
+- 😄 My name is Octávio Lage, and I'm from Brazil :earth_americas:. Since was young, I always thought it was amazing how pulses of energy were transformed into what we see every day on the screens of our computers and video games. So I decided to work turning these pulses into something to help people.
+
+- :books: I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais.
+
+- :computer: Actually I work as a Software Development Inner at Mediar Solutions.
+
+- ✉️ Would you like to find me?
+           
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
 <!--
 **octaviolage/octaviolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
