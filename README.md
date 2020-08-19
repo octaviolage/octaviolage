@@ -4,9 +4,9 @@
 
 - 📚 I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais and reinforcing my knowledge in an internship at Mediar Solutions. Where assistance in the back-end development of the platform.
 
-- 💻 I want to be a FullStack developer. I can collaborate with:
-    - Java: Api Rest with Spark;
-    - JavaScript: build a single page site using React;
+- 💻 I can collaborate with:
+    - Java: Api Rest - Spark Java;
+    - JavaScript: responsive single page aplications - React.js;
     - Python e C: basic.
 
 - 🎲 Quick facts about me: 
