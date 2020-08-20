@@ -4,10 +4,11 @@
 
 - 📚 I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais and reinforcing my knowledge in an internship at Mediar Solutions. Where assistance in the back-end development of the platform.
 
-- 💻 I can collaborate with:
-    - Java: RESTful API - Spark Java;
-    - JavaScript: responsive single page aplications - React.js;
-    - Python e C: basic.
+- 💻 I have experience and can collaborate with:
+    - Java ⇨ RESTful API development with SPARK JAVA
+    - JavaScript ⇨ creating single page applications with React.js
+    - Python ⇨ studying development with Django and Flask
+    - C ⇨ basic.
 
 - 🎲 Quick facts about me: 
     - I love to travel and see new things and places;
