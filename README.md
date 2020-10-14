@@ -1,25 +1,25 @@
-### Hello World! 👋
+### Hello World! 👋🏻
+--------------------
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=plastic-square&logo=Gmail&logoColor=red&link=mailto:octavio.lage@sga.pucminas.br)](mailto:octavio.lage@sga.pucminas.br/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
+![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
-- 😄 My name is Octávio Lage, and I'm from Brazil 🌎. Since was young, I always thought it was amazing how pulses of energy were transformed into what we see every day on the screens of our computers and video games. So I decided to work on turning these pulses into things that can help people in different ways. 
 
-- 📚 I am currently in the third period of my bachelor's degree in Software Engineering at the Pontifical Catholic University of Minas Gerais and reinforcing my knowledge in an internship at Mediar Solutions. Where assistance in the back-end development of the platform.
+My name is Octávio Lage, and I'm from Brazil. I am a student of the third period of my bachelor's degree in Software Engineering and reinforcing my knowledge in an internship, where assistance in the back-end development.
 
-- 💻 I have experience and can collaborate with:
-    - Java ⇨ RESTful API development with SPARK JAVA
-    - JavaScript ⇨ creating single page applications with React.js
-    - Python ⇨ studying development with Django and Flask
-    - C ⇨ basic.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
 
-- 🎲 Quick facts about me: 
-    - I love to travel and see new things and places;
-    - My favorite food is pizza; 
-    - My favorite sport is running;
-    - In my spare time I like to play games. 
+<b> I'm currently: </b>
+  - 🎓 Studying at Pontifical Catholic University of Minas Gerais;
+  - 💻 Working at Mediar Solutions;
+  - 📚 Learning Python and SQL.
+  
+<b> Languages and tools: </b>
 
-- ✉️ Would you like to find me?
-           
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
+<pre style="width: 50">
+<code><img height="30" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/git.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/java.png" ></code> <code><img height="30" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/javascript.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></code>
+</pre>
 <!--
 **octaviolage/octaviolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
