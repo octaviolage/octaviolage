@@ -4,10 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
+<img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
 
 My name is Octávio Lage, and I'm from Brazil. I am a student of the third period of my bachelor's degree in Software Engineering and reinforcing my knowledge in an internship, where assistance in the back-end development.
-
-<img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
 
 <b> I'm currently: </b>
   - 🎓 Studying at Pontifical Catholic University of Minas Gerais;
@@ -17,12 +16,14 @@ My name is Octávio Lage, and I'm from Brazil. I am a student of the third perio
 <b> Languages and tools: </b>
 
 <p>
-<img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/git.png"></a>
-<img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/java.png" ></a>
-<img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/javascript.png"></a>
-<img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></a>
-<img height="35" alt="ReactJS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></a>
+<a hrf="https://git-scm.com/" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/git.png"></a>
+<a hrf="https://cloud.google.com/" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/gcp.png"></a>
+<a hrf="https://docs.oracle.com/en/java/" ><img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/java.png" ></a>
+<a hrf="https://www.javascript.com/" ><img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/javascript.png"></a>
+<a hrf="https://www.python.org/" ><img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></a>
+<a hrf="https://reactjs.org/" ><img height="35" alt="ReactJS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></a>
 </p>
+
 <!--
 **octaviolage/octaviolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
