@@ -4,9 +4,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
-<img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
+My name is Octávio Lage, and I'm from Brazil. I am a student of the third period of bachelor's degree in Software Engineering and reinforcing my knowledge in an internship, where assistance in the back-end development.
 
-My name is Octávio Lage, and I'm from Brazil. I am a student of the third period of my bachelor's degree in Software Engineering and reinforcing my knowledge in an internship, where assistance in the back-end development.
+<img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
 
 <b> I'm currently: </b>
   - 🎓 Studying at Pontifical Catholic University of Minas Gerais;
@@ -24,6 +24,7 @@ My name is Octávio Lage, and I'm from Brazil. I am a student of the third perio
 <a href="https://reactjs.org/" ><img height="35" alt="ReactJS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></a>
 </p>
 
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviolage&hide=html&layout=compact&theme=default" /> 
 <!--
 **octaviolage/octaviolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
