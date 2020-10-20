@@ -16,8 +16,10 @@ My name is Octávio Lage, and I'm from Brazil. I am a student of the third perio
 <b> Languages and tools: </b>
 
 <p>
+<a href="https://www.w3schools.com/css/" ><img height="35" alt="CSS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/css.png"></a>
 <a href="https://git-scm.com/" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/git.png"></a>
-<a href="https://cloud.google.com/" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/gcp.png"></a>
+<a href="https://cloud.google.com/" ><img height="35" alt="GCloud" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/gcp.png"></a>
+<a href="https://www.w3schools.com/html/" ><img height="35" alt="HTML" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/html.png" ></a>
 <a href="https://docs.oracle.com/en/java/" ><img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/java.png" ></a>
 <a href="https://www.javascript.com/" ><img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/javascript.png"></a>
 <a href="https://www.python.org/" ><img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></a>
