@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=plastic-square&logo=Gmail&logoColor=red&link=mailto:octavio.lage@sga.pucminas.br)](mailto:octavio.lage@sga.pucminas.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
-[![Twitter Badge](https://img.shields.io/badge/-StackOverflow-48a868?style=plastic-square&labelColor=48a868&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/204061)](https://pt.stackoverflow.com/users/204061)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-48a868?style=plastic-square&labelColor=48a868&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/204061)](https://pt.stackoverflow.com/users/204061)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
