@@ -1,12 +1,13 @@
 ### Hello World! 👋🏻
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=plastic-square&logo=Gmail&logoColor=red&link=mailto:octavio.lage@sga.pucminas.br)](mailto:octavio.lage@sga.pucminas.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
-My name is Octávio Lage, and I'm from Brazil. I am a student of the third period of bachelor's degree in Software Engineering and reinforcing my knowledge in an internship, where assistance in the back-end development.
-
 <img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
+
+My name is Octávio Lage, and I'm from Brazil. I am a student in the third period of Software Engineering and work as a Junior Back-end Developer.
 
 <b> I'm currently: </b>
   - 🎓 Studying at Pontifical Catholic University of Minas Gerais;
