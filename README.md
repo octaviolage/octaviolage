@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
-<img align="right" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
+<img align="left" alt="Me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.png"  height="320" />
 
 My name is Octávio Lage, and I'm from Brazil. I am a student in the third period of Software Engineering and work as a Junior Back-end Developer.
 
@@ -28,8 +28,6 @@ My name is Octávio Lage, and I'm from Brazil. I am a student in the third perio
 <a href="https://www.python.org/" ><img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></a>
 <a href="https://reactjs.org/" ><img height="35" alt="ReactJS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></a>
 </p>
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviolage&hide=html&layout=compact&theme=default" /> 
 <!--
 **octaviolage/octaviolage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
