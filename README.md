@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
 ![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
 
-<img align="left" alt="me" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/me.gif"  height="320" />
+<img align="left" alt="octocat" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/octocat.png"  height="320" />
 
 My name is Octávio Lage, and I'm from Brazil. I am a student in the fourth period of Software Engineering.
 
