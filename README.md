@@ -9,20 +9,24 @@ I'm a Brazilian Software Engineering student passionate about learning and, mayb
 I'm very interested in the DevOps area, always looking for process improvements. <br/><br/>
 I am also looking to develop my leadership and team management skills.<br/><br/>
   
-<b> Languages and tools I can collaborate with: </b>
+Languages and tools I can collaborate with:
 
-<p>
-<img height="35" alt="CSS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/css.svg">
-<img height="35" alt="GCloud" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/gcp.svg">
-<img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/git.svg">
-<img height="35" alt="HTML" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/html.svg" >
-<img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/java.svg" >
-<img height="35" alt="Next.js" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nextjs.svg" >
-<img height="35" alt="Nodejs" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nodejs.svg" >
-<img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/javascript.svg">
-<img height="35" alt="PostgreSQL" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/postgresql.svg">
-<img height="35" alt="PM2" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/pm2.svg">
-<img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/python.svg">
-<img height="35" alt="React" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/react.svg">
-<img height="35" alt="TypeScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/typescript.svg">
-</p>
+<table border="0">
+  <tr>
+    <td align="center" ><img height="35" alt="CSS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/css.svg"></td>
+    <td align="center" ><img height="35" alt="GCloud" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/gcp.svg"></td>
+    <td align="center" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/git.svg"></td>
+    <td align="center" ><img height="35" alt="HTML" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/html.svg" ></td>
+    <td align="center" ><img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/java.svg" ></td>
+    <td align="center" ><img height="35" alt="Next.js" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nextjs.svg" ></td>
+ </tr>
+ <tr>
+    <td align="center" ><img height="35" alt="Nodejs" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nodejs.svg" ></td>
+    <td align="center" ><img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/javascript.svg"></td>
+    <td align="center" ><img height="35" alt="PostgreSQL" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/postgresql.svg"></td>
+    <td align="center" ><img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/python.svg"></td>
+    <td align="center" ><img height="35" alt="React" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/react.svg"></td>
+    <td align="center" ><img height="35" alt="TypeScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/typescript.svg"></td>
+ </tr>
+</table>
+
