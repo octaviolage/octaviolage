@@ -1,30 +1,28 @@
-### Hello World! 👋🏻
+<div align="center">
+  <h1>Octavio T. Ribeiro Lage</h1>
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=plastic-square&logo=Gmail&logoColor=red&link=mailto:octavio.lage@sga.pucminas.br)](mailto:octavio.lage@sga.pucminas.br/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/octavio-lage)](https://www.linkedin.com/in/octavio-lage)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-48a868?style=plastic-square&labelColor=48a868&logo=stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/204061)](https://pt.stackoverflow.com/users/204061)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=plastic-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lageoctavio)](https://twitter.com/lageoctavio)
-![](https://visitor-badge.glitch.me/badge?page_id=octaviolage.octaviolage)
+<img align="left" alt="octocat" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/img/octocat.png"  height="320" />
 
-<img align="left" alt="octocat" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/octocat.png"  height="320" />
-
-My name is Octávio Lage, and I'm from Brazil. I am a student in the fourth period of Software Engineering.
-
-<b> I'm currently: </b>
-  - 🎓 Studying at Pontifical Catholic University of Minas Gerais ([PUC-Minas](https://www.pucminas.br/destaques/Paginas/default.aspx));
-  - 💻 Developer at [Mediar Solutions](https://mediarsolutions.com/);
-  - 📚 Learning NodeJS.
+Hello there!<br/><br/>
+I'm a Brazilian Software Engineering student passionate about learning and, maybe one day in the future, I'll teach too. <br/><br/>
+I'm very interested in the DevOps area, always looking for process improvements. <br/><br/>
+I am also looking to develop my leadership and team management skills.<br/><br/>
   
-<b> Languages and tools: </b>
+<b> Languages and tools I can collaborate with: </b>
 
 <p>
-<a href="https://www.w3schools.com/css/" ><img height="35" alt="CSS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/css.png"></a>
-<a href="https://git-scm.com/" ><img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/git.png"></a>
-<a href="https://cloud.google.com/" ><img height="35" alt="GCloud" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/gcp.png"></a>
-<a href="https://www.w3schools.com/html/" ><img height="35" alt="HTML" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/html.png" ></a>
-<a href="https://docs.oracle.com/en/java/" ><img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/java.png" ></a>
-<a href="https://www.javascript.com/" ><img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/javascript.png"></a>
-<a href="https://www.postgresql.org/" ><img height="35" alt="PostgreSQL" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/postgresql.png"></a>
-<a href="https://www.python.org/" ><img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/python.png"></a>
-<a href="https://reactjs.org/" ><img height="35" alt="ReactJS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/imgs/reactjs.png"></a>
+<img height="35" alt="CSS" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/css.svg">
+<img height="35" alt="GCloud" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/gcp.svg">
+<img height="35" alt="Git" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/git.svg">
+<img height="35" alt="HTML" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/html.svg" >
+<img height="35" alt="Java" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/java.svg" >
+<img height="35" alt="Next.js" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nextjs.svg" >
+<img height="35" alt="Nodejs" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/nodejs.svg" >
+<img height="35" alt="JavaScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/javascript.svg">
+<img height="35" alt="PostgreSQL" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/postgresql.svg">
+<img height="35" alt="PM2" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/pm2.svg">
+<img height="35" alt="Python" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/python.svg">
+<img height="35" alt="React" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/react.svg">
+<img height="35" alt="TypeScript" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/svg/typescript.svg">
 </p>
