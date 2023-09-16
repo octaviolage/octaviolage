@@ -1,4 +1,4 @@
-# Hi, good to see you here!
+# 👋 Hi, good to see you here!
 
 <img align="right" alt="octocat" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/img/octocat.png"  height="320" />
 
@@ -9,14 +9,15 @@ About: "I'm a Brazilian Data and Software Engineer passionate about
 continuously learning and taking on challenges, especially when it
 comes to games."
 
-Main Skils:
-  - "Python"
-  - "TypeScript"
-  - "Next.js"
-  - "Apache Airflow"
-  - "SQL"
+Main Skils: ["Python","TypeScript","Next.js","Apache Airflow","SQL"]
 
-See more bellow ⬇️
+Interests and Hobbies:
+  - "Machine Learning"
+  - "Bioinformatics"
+  - "Game Development"
+  - "Playing games"
+  - "Watching movies/series"
+  - "Going to the gym"
 ```
 
 <details open>
@@ -43,7 +44,7 @@ See more bellow ⬇️
 
   <img align="left" alt="Mediar Solutions" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/img/mediar.jpeg" height="80px" />
   <b>&nbsp;&nbsp;Mediar Solutions - Software Engineer</b><br/>
-  &nbsp;&nbsp;OCTOBER 2020 - JUNE 2022<br/>
+  &nbsp;&nbsp;MARCH 2020 - JUNE 2022<br/>
   <br/>
   &nbsp;&nbsp;As an Software Engineer, I oversaw data flows and efficiently managing cloud-based services and VMs, particularly in AWS and GCP environments. My contributions extend to the development of our cutting-edge platform, where I've played a pivotal role in building a dynamic front end using Next.js and TypeScript, as well as a robust RESTful API using Fastify and TypeScript.
 </details>
