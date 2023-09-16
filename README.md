@@ -29,6 +29,7 @@ See more bellow ⬇️
   In my final paper, I discuss the compatibility issues of Open Source Software (OSS) licenses and explore methods to mitigate related problems.
 </details>
 
+---
 
 <details open>
   <summary><h3> Work Experience </h3></summary>
@@ -37,8 +38,9 @@ See more bellow ⬇️
   &nbsp;&nbsp;JULLY 2022 - PRESENT<br/>
   <br/>
   &nbsp;&nbsp;My role involves crafting and enhancing Directed Acyclic Graphs (DAGs) using Apache Airflow to ensure a resilient data flow. I am also designing and implementing data ETL processes to maintain traceability within our data lake. My expertise lies in creating efficient and reliable data pipelines, driving data-driven insights and ensuring data integrity throughout the entire data lifecycle.
-  
-  --------------------
+
+  ---
+
   <img align="left" alt="Mediar Solutions" src="https://raw.githubusercontent.com/octaviolage/octaviolage/master/assets/img/mediar.jpeg" height="80px" />
   <b>&nbsp;&nbsp;Mediar Solutions - Software Engineer</b><br/>
   &nbsp;&nbsp;OCTOBER 2020 - JUNE 2022<br/>
@@ -46,6 +48,7 @@ See more bellow ⬇️
   &nbsp;&nbsp;As an Software Engineer, I oversaw data flows and efficiently managing cloud-based services and VMs, particularly in AWS and GCP environments. My contributions extend to the development of our cutting-edge platform, where I've played a pivotal role in building a dynamic front end using Next.js and TypeScript, as well as a robust RESTful API using Fastify and TypeScript.
 </details>
 
+---
 
 <h3> Where to find me </h3>
 
