@@ -5,7 +5,9 @@
 ```yaml
 Name: "Octavio Lage"
 
-About: "I'm a Brazilian Data and Software Engineer passionate about continuously learning and taking on challenges, especially when it comes to games."
+About: "I'm a Brazilian Data and Software Engineer passionate about
+continuously learning and taking on challenges, especially when it
+comes to games."
 
 Main Skils:
   - "Python"
